@@ -19,8 +19,8 @@ int main() {
         }
 
         if (choice == 0) {
-            cout << "Goodbye!\n";
-            break;
+            cout << "Goodbye!\n";// is this correct?
+          
         }
 
        
